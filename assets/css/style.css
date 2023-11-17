@@ -20,8 +20,7 @@ header {
 
 }
 
-#contact a{
-
+#contact{
 display:flex;
 justify-content: space-evenly;
 text-align:center;
@@ -32,11 +31,25 @@ font-size:20px;
 font-size:10px;
 
 }
-#intro{
-height: 350px;
+#hero{
+height: 300px;
 width: 100%;
 background: url("../images/training.jpg") no-repeat center center/cover;
 position: relative;
+}
+
+#intro{
+position: absoloute;
+background-color:rgba(184, 169, 169, 0.75);
+color:white;
+text-align:center ;
+margin:5px;
+padding:5px
+} 
+
+h1{
+color:red;
+font-size:300%
 }
 
 /* Main content */
