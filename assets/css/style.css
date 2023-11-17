@@ -7,14 +7,33 @@ box-sizing: border-box;
 
 /*General body style*/
 body{
+font-size:larger;
 min-height:100vh;
 color:white;
 background-color:black;
-/*add font family here*/
 display:flex;
 flex-flow:column wrap
 }
 
+#head-nav li {
+    display: inline-block;
+    text-align: center;
+    color: red;
+    font-size: large
+}
+#intro {
+    position: absoloute;
+    background-color: rgba(184, 169, 169, 0.80);
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 5px
+}
+
+h1 {
+    color: red;
+    font-size: 300%
+}
 #contact{
 color:red 
 }
@@ -23,40 +42,19 @@ color:red
 
     display:inline-block;
     text-align:center;
+    color:red;
+    font-size: large
 
 }
 
-#head-nav li{
-        display: inline-block;
-            text-align: center;
-}
-
-#contact span{
-font-size:10px;
-
-}
 #landing{
 height: 300px;
 width: 100%;
 background: url("../images/training.jpg") no-repeat center center/cover;
 position: relative;
 }
-#head-nav{
-    color:red
-}
-#intro{
-position: absoloute;
-background-color:rgba(184, 169, 169, 0.80);
-color:white;
-text-align:center;
-margin:5px;
-padding:5px
-} 
 
-h1{
-color:red;
-font-size:300%
-}
+
 
 /* Main content */
 main {
@@ -66,14 +64,8 @@ margin: 5px;
 border: 5px;
 }
 
-
-#about{
-
-}
-
 h2{
 color:red;
-
 }
 
 #hyde-img{
@@ -90,12 +82,16 @@ background: url("../images/battersea.jpg") no-repeat center center/cover;
 #battersea-txt{
 background-color:rgba(80, 70, 70, 0.80);
 }
-
+#park{
+    width: 100%;
+    height: auto;
+}
 /* Footer */
 footer {
 text-align: center;
 margin: 5px;
-padding: 5px
+padding: 5px;
+font-size: large
 }
 
 /*
