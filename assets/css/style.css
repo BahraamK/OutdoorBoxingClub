@@ -54,8 +54,33 @@ font-size:300%
 
 /* Main content */
 main {
+flex: auto;
+margin: 5px;
+border: 5px
+}
 
-flex: auto
+#about{
+
+}
+
+h2{
+color:red
+
+}
+
+#hyde-img{
+background: url("../images/hyde.jpg") no-repeat center center/cover;
+}
+#hyde-txt{
+background-color:rgba(65, 59, 59, 0.486);
+
+}
+
+#battersea-img{
+background: url("../images/battersea.jpg") no-repeat center center/cover;
+}
+#battersea-txt{
+background-color:rgba(80, 70, 70, 0.486);
 }
 
 /* Footer */
