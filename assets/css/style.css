@@ -20,9 +20,11 @@ header {
 
 }
 
+
 /* Main content */
 main {
- flex: auto
+
+flex: auto
 }
 
 /* Footer */
