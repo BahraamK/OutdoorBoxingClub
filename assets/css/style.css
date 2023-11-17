@@ -5,18 +5,24 @@ margin: 0;
 box-sizing: border-box;
 }
 
+/*General body style*/
 body{
-
+min-height:100vh;
+color:white;
+background-color:black;
+/*add font family here*/
+display:flex;
+flex-flow:column wrap
 }
 
 /* Header */
 header {
-  
+
 }
 
 /* Main content */
 main {
-
+ flex: auto
 }
 
 /* Footer */
