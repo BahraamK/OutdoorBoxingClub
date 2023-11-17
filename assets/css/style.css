@@ -20,6 +20,24 @@ header {
 
 }
 
+#contact a{
+
+display:flex;
+justify-content: space-evenly;
+text-align:center;
+list-style-type:none;
+font-size:20px;
+}
+#contact span{
+font-size:10px;
+
+}
+#intro{
+height: 350px;
+width: 100%;
+background: url("../images/training.jpg") no-repeat center center/cover;
+position: relative;
+}
 
 /* Main content */
 main {
