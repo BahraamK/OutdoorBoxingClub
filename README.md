@@ -13,51 +13,45 @@ Outdoor Boxing Club is a site that hopes to encourage people (living in London, 
 7.I expect to have different channels available to contact regarding any enquiries.
 8.I would like to have access to social media accounts to get a preview of the boxing club.
 
-
 ## Design
 ### Wireframe
-
-
+Wireframe used:file:///C:/Users/bahra/OneDrive/Desktop/Wireframe.pdf
 
 ## Features
 
 ### Current Features
 * #### Navagation Bar
-(insert image of this section)
-    * Explain what this section is
-    * Explain why its good/useful
+![Navigation Bar](assets/readmepics/nav.png)
+    * The bar consists of 4 tabs which navigate to different sections of the page.
+    * This can help users easily find the section they find most useful.
 
 - #### The landing image
-(Insert image of landing image)
-  - Explain what this section is
-  - Explain why its good/useful
-  - Both in the header and the footer of the webpage there consists links to the About-Us, Memberships, Schedules and Sign-Up form section.
-  - This lets the user easily find the section they need to see across the page.
+[Landing image](assets/readmepics/Landing.png)
+  - The background image displaying a man boxing and contains overlapping text showing the name of the club as well as a inspirational quote.
+  - This makes the name clear and adds a design thats pleasing to the eye
+
   
 - #### About Us section
-(insert image of this section)
--Explain what this section is
--Explain why its good/useful
+[About us](assets/readmepics/about.png)
+-This section summarises what we offer and who is in charge of the sessions.
+-It doesnt overload the users brain with information wnd uses simple language being accessible to people with a language barrier.
 
 - #### Memberships section
-(insert image of this section)
--Explain what this section is
--Explain why its good/useful
+[Memberships](assets/readmepics/member.png)
+-This presents the payment options clearly with line breaks and is brief.
+-This prevents confusion and keeps the attention of the user.
 
 - #### Schedules section
-(insert image of this section)
--Explain what this section is 
--Explain why its good/useful
+[schedule](assets/readmepics/schedule)
+-The location of the places where the sessions take place are in the back-ground offering more detail and context. All information needed to attend the sessions are listed over the images.
+
 
 - #### Sign Up section
-(insert image of this seciton)
--Explain what this section is
--Explain why its good/useful
+(sasets/readmepics/sign)
+-Form that requires first and last names to be filled out as well as an email. If part of the form is not filled a message will pop up notifying the user which helps prevent mistakes upon sign up.
 
 - #### Footer
-(insert image of this section)
--Explain what this section is
--Explain why its good/useful
+[Footer](assets/readmepics/footer)
 
 ### Feature ideas to implement
 - Purchasing on the site
@@ -76,7 +70,7 @@ Outdoor Boxing Club is a site that hopes to encourage people (living in London, 
 
 ### General testing
 * I used the site on my Iphone and i sent the website to friends who used a Samsung to see if there were any unpredicted changes
-* The sit was refreshed and checked after each Git Commit
+* The site was refreshed and checked after each Git Commit
 
 ### Bugs
 #### Known, Unfixed Bugs
@@ -91,7 +85,7 @@ Outdoor Boxing Club is a site that hopes to encourage people (living in London, 
 1. The deployment process for the site was to GitHub Pages and involves the following steps:
 2. Go to the Settings tab within the GitHub repository.
 3. Under the general settings, within the code and automation channel, select the pages tab.
-4. Under the subheading "branch", select the main branch
+4. Under the subheading "branch", select the main branch.
 5. Besides the branch selection, select the folder icon then select the root folder.
 6. Click the save button, refresh the page and wait a couple inutes to see the live site link towards the top of the page. 
 Outdoor Boxing Club live link- (insert link)
