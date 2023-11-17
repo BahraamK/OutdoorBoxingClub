@@ -2,13 +2,30 @@
 
 Outdoor Boxing Club is a site that hopes to encourage people (living in London, England) to get into a fun outdoor fitness routine whilst also learning valuable boxing skills. This site will be useful for anyone with an interest in boxing as they can check what type of sessions will take place, the time it takes place and where it takes place.
 
+## User Experience
+### User Stories
+1.As a user interested in a boxing or fitness club, I am expecting to see information about the club .
+2.I expect to see what type of sessions will be available.
+3.As someone who is looking to be trained, I expect to see who are the coaches.
+4.As a user who is looking to join the club, I expect to be presented with the prices and options for payment.
+5.I expect to see the time and locations of these boxing sessions as well as the activities being run for that day.
+6.As a user looking to start attending the boxing club, i would like to have a way to sign up.
+7.I expect to have different channels available to contact regarding any enquiries.
+8.I would like to have access to social media accounts to get a preview of the boxing club.
+
+
+## Design
+### Wireframe
+
+
+
 ## Features
 
 ### Current Features
 * #### Navagation Bar
 (insert image of this section)
-  * Explain what this section is
-  * Explain why its good/useful
+    * Explain what this section is
+    * Explain why its good/useful
 
 - #### The landing image
 (Insert image of landing image)
