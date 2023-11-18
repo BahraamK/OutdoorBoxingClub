@@ -15,7 +15,7 @@ Outdoor Boxing Club is a site that hopes to encourage people (living in London, 
 
 ## Design
 ### Wireframe
-[Wireframe used](file:///C:/Users/bahra/OneDrive/Desktop/Wireframe.pdf)
+The wireframe created and used by me-[wireframe](file:///C:/Users/bahra/OneDrive/Desktop/Wireframe.pdf)
 
 ## Features
 
@@ -65,8 +65,9 @@ Outdoor Boxing Club is a site that hopes to encourage people (living in London, 
 ## Testing
 
 ### Validator testing
-* HTML has been validated using (insert link), no errors were found
-* CSS has been validated using (insert link), no errors were found
+
+* HTML has been validated using <https://validator.w3.org/nu/?doc=https%3A%2F%2Fbahraamk.github.io%2FOutdoorBoxingClub%2F> , no errors were found
+* CSS has been validated using <https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fbahraamk.github.io%2FOutdoorBoxingClub%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en>, no errors were found
 
 ### Lighthouse testing
 * The site scored 100 on mobile accessibility using [Pagespeed](https://pagespeed.web.dev/analysis/https-bahraamk-github-io-OutdoorBoxingClub/7se92wtugp?form_factor=mobile)
@@ -92,7 +93,7 @@ Outdoor Boxing Club is a site that hopes to encourage people (living in London, 
 4. Under the subheading "branch", select the main branch.
 5. Besides the branch selection, select the folder icon then select the root folder.
 6. Click the save button, refresh the page and wait a couple inutes to see the live site link towards the top of the page. 
-Outdoor Boxing Club live link- (insert link)
+Outdoor Boxing Club live link- <https://bahraamk.github.io/OutdoorBoxingClub/>
 
 ## Credits
 
