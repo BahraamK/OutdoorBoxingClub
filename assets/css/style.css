@@ -23,14 +23,14 @@ color: red
 margin: 15px 0px
 }
 
-
-#head-nav li {
+/*centers and seperates navigation*/
+#head-nav li, #contact li {
 display: inline-block;
 text-align: center;
 font-size: large
 }
 
-
+/*Styles h1 and the quote below it*/
 #intro {
 background-color: rgba(184, 169, 169, 0.80);
 color: white;
@@ -43,12 +43,7 @@ h1 {
 font-size: 300%
 }
 
- #contact li{
-display:inline-block;
-text-align:center;
-font-size: large
-}
-
+/* 1st background image*/
 #landing {
 height: 300px;
 width: 100%;
@@ -63,32 +58,23 @@ text-align:center;
 margin: 5px;
 border: 5px;
 }
-
-#about{
-margin: 15px 0px
-}
-
-#memberships{
-margin: 15px 0px
-}
-
+/*background for schedules*/
 #hyde-img{
 background: url("../images/hyde.jpg") no-repeat center center/cover;
+} 
+
+#battersea-img {
+background: url("../images/battersea.jpg") no-repeat center center/cover;
 }
-#hyde-txt{
+
+/*overlapping text in schedules*/
+#hyde-txt, #battersea-txt {
 background-color:rgba(65, 59, 59, 0.80);
 }
 
-#battersea-img{
-background: url("../images/battersea.jpg") no-repeat center center/cover;
-}
-#battersea-txt{
-background-color:rgba(80, 70, 70, 0.80);
-}
-
 #park{
-    width: 100%;
-    max-height:500px;
+width: 100%;
+max-height:500px;
 }
 
 /* Footer */
@@ -103,6 +89,7 @@ footer a{
 font-size:larger
 }
 
+/*adjusts font size for larger devices*/
 @media only screen and (min-width: 1024px) {
 #head-nav li, footer, #contact li {
 font-size:larger
