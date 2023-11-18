@@ -15,47 +15,40 @@ Outdoor Boxing Club is a site that hopes to encourage people (living in London, 
 
 ## Design
 ### Wireframe
-The wireframe created and used by me-[wireframe](file:///C:/Users/bahra/OneDrive/Desktop/Wireframe.pdf)
+The wireframe created and used by me- [Wireframe](assets/readmepics/wireframe.png)
 
 ## Features
 
 ### Current Features
 * #### Navagation Bar
 ![Navigation Bar](assets/readmepics/nav.png)
-    * The bar consists of 4 tabs which navigate to different sections of the page.
-    * This can help users easily find the section they find most useful.
+    * The bar consists of 4 tabs which navigate to different sections of the page. This can help users easily find the section they find most useful.
 
 * #### The landing image
 ![Landing image](assets/readmepics/landing.png)
-    * The background image displaying a man boxing and contains overlapping text showing the name of the club as well as a inspirational quote.
-    * This makes the name clear and adds a design thats pleasing to the eye
+    * The background image displaying a man boxing and contains overlapping text showing the name of the club as well as a quote. This makes the name clear and adds a design thats pleasing to the eye
 
   
 * #### About Us section
 ![About us](assets/readmepics/about.png)
-    * This section summarises what we offer and who is in charge of the sessions.
-    * It doesnt overload the users brain with information wnd uses simple language being accessible to people with a language barrier.
+    * This section summarises what we offer and who is in charge of the sessions by following two lists. It doesnt overload the users brain with information wnd uses simple language being accessible to people with a language barrier.
 
 * #### Memberships section
 ![Memberships](assets/readmepics/member.png)
-    * To keep consistency for the user, the design for this section maintains the same styles as the previous section.
-    * Hopefully, this keeps the attention of the user as the content should be simple and fast to follow.
+    * To keep consistency for the user, the design for this section maintains the same styles as the previous section. Hopefully, this keeps the attention of the user as the content should be simple and fast to follow.
 
 * #### Schedules section
 ![Schedule](assets/readmepics/schedule.png)
-    * Displays 2 boxes which seperate the information of the sessions.
-    * The location of the places where the sessions take place are in the back-ground offering more detail and context. All information needed to attend the sessions are listed over the images.
+    * Displays 2 boxes which seperate the information of the sessions. The location of the places where the sessions take place are in the back-ground offering more detail and context. All information needed to attend the sessions are listed over the images.
 
 
 * #### Sign Up section
 ![Sign Up](assets/readmepics/sign.png)
-    * Form that requires first and last names to be filled out as well as an email.
-    * If part of the form is not filled a message will pop up notifying the user which helps prevent mistakes upon sign up.
+    * Form that requires first and last names to be filled out as well as an email. If part of the form is not filled a message will pop up notifying the user which helps prevent mistakes upon sign up.
 
 * #### Footer
-![Footer](assets/readmepics/footer)
-    * Contains icons that act as links to the social media.
-    * This leaves a simple and intuitive design. 
+![Footer](assets/readmepics/footer.png)
+    * Contains icons that act as links to the social media. This leaves a simple and intuitive design. 
   
 ### Feature ideas to implement
 * Purchasing on the site
